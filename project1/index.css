@@ -1,0 +1,33 @@
+* {
+  font-weight: bold;
+}
+#Container {
+  height: 1000px;
+  width: 1000px;
+  border: 1px solid black;
+  background-image: url(images/background3.png);
+}
+#come {
+  text-align: center;
+  font-size: large;
+  margin-top: 40px;
+  color: black;
+}
+.Numbers {
+  display: flex;
+  color: black;
+  margin-top: 25px;
+  justify-content: center;
+}
+
+.Data {
+  display: flex;
+  color: black;
+  justify-content: center;
+}
+
+.text {
+  color: black;
+  text-align: center;
+  margin-top: 50px;
+}
